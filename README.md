@@ -1,5 +1,4 @@
 # sparkpoc
-my poc in spark
 echo "# sparkpoc" >> README.md
 git init
 git add README.md
